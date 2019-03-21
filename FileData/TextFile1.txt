@@ -1,0 +1,13 @@
+﻿//Code By Thilagasenthilramesh @ 21-03-2019 4:52pm
+
+Development
+1.Plan the Requirement
+2.Develop the Code as per requirements
+3.Check the flow of code
+4.Over All Testing
+
+Testing
+1.Plan the Requirment
+2.Test based Requirment
+3.Test Cases for bugg
+4. Reverifying the Test Case
